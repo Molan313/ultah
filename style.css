@@ -105,14 +105,3 @@ input[type="submit"]:hover{
     justify-content: center;
     flex-wrap: wrap;
 }
-
-
-
-
-/* mobile */
-@media (max-width: 600px) {
-    .container {
-        display: flex;
-        flex-wrap: wrap;
-    }
-}

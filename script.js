@@ -9,8 +9,8 @@ document.getElementById('cek').addEventListener('click', function(event) {
     else if (nameInput === "wina suresti") {
         window.location.href = "ultah.html"; // Redirect to ultah.html
     }
-    else if ("nameInput === faisal masri maulana") {
-        alert("Itu nama saya! (╬≖_≖)")
+    else if (nameInput === "faisal masri maulana") {
+        alert("Itu nama saya! (╬≖_≖)");
     }
     else {
         window.location.href = "salah.html"; // Redirect to no.html

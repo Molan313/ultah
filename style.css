@@ -114,14 +114,22 @@ input[type="submit"]:hover{
     justify-content: center;
     color: white;
     align-items: center;
+    text-align: center;
+    font-size: .8rem;
 }
 
 .salah a button {
     margin-top: 10px;
     padding: 5px;
+    background-color: white;
+    color: black;
     border-radius: 5px;
     border: none;
     font-size: 1rem;
-    cursor: pointer;
 }
 
+.salah a button:hover {
+    cursor: pointer;
+    color: white;
+    background-color: black;
+}

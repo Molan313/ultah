@@ -7,7 +7,8 @@ document.getElementById('cek').addEventListener('click', function(event) {
         alert("Nama tidak boleh kosong");
     }
     else if (nameInput === "wina suresti") {
-        window.location.href = "ultah.html"; // Redirect to ultah.html
+        window.location.href = "ultah.html";
+         // Redirect to ultah.html
     }
     else if (nameInput === "faisal masri maulana") {
         alert("Itu nama saya! (╬≖_≖)");
